@@ -13,9 +13,9 @@ Il dataset è stato estratto da Kaggle ([Job Salary Prediction Dataset]). Contie
 
 * **Esperienza**: Anni di esperienza nel settore.
 
-* **Istruzione**: Livello di studi (Laurea, Maestro, Scuola superiore).
+* **Istruzione**: Livello di studi (Laurea, Master, Scuola superiore).
 
-* **Industria**: Settore di attività (Finanza, Programmazione, Sanità).
+* **Industria**: Settore di attività.
 
 * **Località e Dimensioni Aziendali**: Fattori geografici e strutturali.
   
