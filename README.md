@@ -19,8 +19,7 @@ Il dataset è stato estratto da Kaggle ([Job Salary Prediction Dataset]). Contie
 
 * **Località e Dimensioni Aziendali**: Fattori geografici e strutturali.
   
-
-  # Obiettivi dell'analisi
+ # Obiettivi dell'analisi
 L'analisi si concentra su 6 metriche chiave per comprendere le dinamiche del mercato del lavoro:
 
 1. **Premio Salariale dell'Istruzione**: Quantificare il vantaggio economico di una laurea rispetto al diploma per ogni paese.
