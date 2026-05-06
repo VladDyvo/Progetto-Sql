@@ -48,6 +48,14 @@ Dal grafico emerge che il Regno Unito guida la classifica con un premio salarial
 L'aspetto più interessante non è la differenza tra i paesi, ma la loro uniformità: il gap salariale si mantiene in un range strettissimo tra il 13,62% e il 14,28% in tutti i 10 paesi analizzati. Questo suggerisce che il mercato del lavoro globale riconosce il valore della laurea in modo consistente, indipendentemente dalla geografia.
 **Conclusione**: investire in un titolo universitario garantisce mediamente un premio salariale di circa il 14% a livello globale.
 
+## Analisi 2 — Classifica Stipendi Junior per Paese
+Ho analizzato lo stipendio medio d'ingresso (0-2 anni di esperienza) nei 10 paesi del dataset, per capire quali mercati offrono le migliori opportunità economiche ai profili junior.
+I risultati mostrano che USA (€151.173), Canada (€139.879) e UK (€133.372) sono i mercati più remunerativi, con un distacco evidente rispetto agli altri paesi. In particolare, gli USA superano di quasi €35.000 la media del gruppo centrale.
+Germany, Remote, Netherlands, Singapore e Sweden si trovano tutte in un range molto compatto tra €116.000 e €128.000, segno che questi mercati sono sostanzialmente equivalenti per un profilo junior.
+Australia (€115.743) è in linea con il gruppo centrale, mentre India (€81.491) si distacca nettamente da tutti gli altri paesi.
+**Conclusione**: chi cerca opportunità internazionali da junior dovrebbe guardare prima al mercato nordamericano e britannico. Vale anche la pena notare che il lavoro da remoto si colloca nella fascia media, confermando i risultati dell'Analisi 5.
+
+
 ## Analisi 3 — ROI delle Certificazioni
 Per questa analisi ho scelto di rappresentare l'Incremento Marginale, ovvero quanto aumenta lo stipendio medio per ogni certificazione aggiuntiva, invece dello stipendio assoluto.
 Il dato più interessante è il "salto" tra la 2ª e la 3ª certificazione, che genera il ritorno economico più alto in assoluto: +€2.015,59. Anche il passaggio da 0 a 1 certificazione è significativo con +€1.935,78.
@@ -57,7 +65,7 @@ Dopo la terza certificazione l'incremento scende a €1.218,98, per poi risalire
 ## Analisi 4 — Skill Overload
 Ho analizzato la relazione tra il numero di competenze possedute e lo stipendio medio, per verificare se esiste un punto di saturazione oltre il quale acquisire nuove skill smette di essere economicamente vantaggioso.
 Il grafico mostra una crescita costante dello stipendio medio fino a circa 15 competenze, dove si raggiunge un picco intorno a €150.000. Oltre questa soglia, la curva si appiattisce progressivamente: passare da 15 a 19 competenze genera un incremento totale di soli ~€3.000.
-**Conclusione**: il mercato del lavoro premia la polivalenza, ma con rendimenti decrescenti oltre le 15 skill. Questo fenomeno — che possiamo chiamare Skill Overload — suggerisce che investire il proprio tempo in competenze aggiuntive oltre questa soglia ha un ritorno economico marginale sempre più basso.
+**Conclusione**: il mercato del lavoro premia la polivalenza, ma con rendimenti decrescenti oltre le 15 skill. Questo fenomeno  che possiamo chiamare Skill Overload  suggerisce che investire il proprio tempo in competenze aggiuntive oltre questa soglia ha un ritorno economico marginale sempre più basso.
 
 ## Analisi 5 — Premium del Lavoro Remoto
 Per questa analisi ho misurato lo Scostamento Percentuale di ogni modalità lavorativa rispetto alla media salariale globale del dataset, invece di confrontare i valori assoluti.
