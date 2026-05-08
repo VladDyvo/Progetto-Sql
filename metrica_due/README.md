@@ -13,3 +13,14 @@ Ho gestito l'estrazione e la pulizia dei dati per isolare i profili entry-level:
 * **Grafico a barre**: Ho creato un grafico basato sui risultati aggregati, ordinato per RAL decrescente.
 
 ### Grafico: Stipendio Medio Junior rispetto a Paese
+![Stipendio Medio Junior](grafico_junior.png)
+
+# Insight principali
+
+* **Leader di Mercato**: Gli USA si confermano l'hub più remunerativo per i Junior con una media di circa €151.173, seguiti dal Canada (€139.879).
+* **Panorama Europeo**: Il Regno Unito (€133.372) e la Germania (€127.876) rappresentano le destinazioni top in Europa, staccando nettamente la media delle altre nazioni europee presenti nel dataset.
+* **Il caso India**: L'India chiude la classifica con una media di circa €81.491. Nonostante sia il valore più basso registrato nel dataset, questo dato va rapportato al contesto economico locale: una RAL di questo livello può comunque rappresentare un'ottima base di partenza per i talenti del posto. Questo rende il mercato indiano un'opzione valida e competitiva per le figure junior locali, nonostante il distacco numerico rispetto agli altri paesi analizzati.
+* **Analisi Geografica**: I dati mostrano un netto vantaggio competitivo dei mercati nordamericani, dove la remunerazione per i nuovi talenti è mediamente superiore rispetto alle principali economie europee presenti nel dataset.
+
+# Conclusione
+I dati mostrano un mercato chiaramente diviso: se l'obiettivo è lo stipendio più alto possibile, USA, Canada e UK restano le mete imbattibili per un Junior. È interessante però notare la stabilità del gruppo centrale: tra Europa, Australia, Singapore e lavoro Remote, la differenza è minima. Questo significa che oggi un giovane talento può ottenere quasi lo stesso stipendio lavorando da casa rispetto a trasferirsi in contesti internazionali molto costosi, rendendo il fattore geografico molto meno decisivo che in passato.
