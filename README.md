@@ -30,9 +30,9 @@ L'analisi si concentra su 6 metriche chiave per comprendere le dinamiche del mer
 
 4. **Skill Overload**: Verificare se esiste un limite massimo di competenze oltre il quale lo stipendio smette di crescere.
 
-5. **Premium del Lavoro Remoto**: Calcolare il vantaggio salariale offerto dalle posizioni in smart working rispetto a quelle in presenza.
+5. **Premium del Lavoro Remoto**: Calcolare il vantaggio salariale offerto dalle posizioni in smart working rispetto a quelle in presenza o modalità ibride.
 
-6. **Startup vs Multinazionali**: Analizzare in quali settori le piccole aziende offrono compensi migliori rispetto alle grandi imprese.
+
 
 
  # Strumenti utilizzati
