@@ -12,7 +12,7 @@ Su Google Sheets ho scelto un grafico a linee per evidenziare il trend:
 * **Fase di saturazione**: Superata questa soglia, la curva si appiattisce. Tra le 15 e le 19 skill, lo stipendio aumenta di soli €2.643 totali,
 * **Formattazione**: Ho mantenuto la scala cromatica bianco-verde sulla tabella per evidenziare visivamente il passaggio verso i massimi salariali.
 
-  # Grafico: Correlazione tra numero di Skill e Stipendio Medio
+  ### Grafico: Correlazione tra numero di Skill e Stipendio Medio
   
   ![Skill Overload](grafico_analisi_skill.png)
 
