@@ -12,6 +12,7 @@ Su Google Sheets ho creato un sistema visivo per individuare il punto di massimo
 * **Formattazione condizionale**: Ho applicato una scala di colori sulla colonna Avg_Salary partendo dal bianco per il valore minimo fino al verde scuro per il valore massimo, rendendo immediata la percezione della crescita salariale.
 * **Grafico a barre colorate**: Ho rappresentato l’Incremento Marginale. Ogni barra indica il valore monetario aggiunto da ogni singola certificazione.
 * **Etichette dati**: Ho inserito i valori esatti sopra ogni barra per rendere immediata la lettura del profitto aggiuntivo.
+### Grafico: Incremento Marginale della RAL per numero di Certificazioni
   ![Grafico ROI Certificazioni](grafico_roi_certificazioni.png)
 
 # Insight principali
